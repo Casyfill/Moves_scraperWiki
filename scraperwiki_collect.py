@@ -34,18 +34,18 @@ yesterdayString = yesterday.strftime( "%Y, %m, %d" ).replace(', ','')
 
 
 
-Pcode = 'ViTR9l6qIXfX8Qt_4Vrr2920tveKm1yK84nL4o1Vqu2ZElDU2mg8zjoSuSA964pl'
-Ncode = 'dUp2Nc88yK5qqEPSSTdmbZZjpkfVQFR5q0MzXU42qE1wDJSnq96ATXtn7k5r2qO1'
+Pcode = 'password'
+Ncode = 'password'
 
 
-clientId = 'F4osaamCVlvuJ6c2FHWb179BGUr7vr5Q'
-clientSecret = 'Dvm4tKTuRmV3efrl6KKhDritiLNp80k5f5BvRF65c7grV7OPWcnZc1N825agj4Ul'
-redirect = 'http://cargocollective.com/Cityfish'
+clientId = '???'
+clientSecret = '???'
+redirect = '???'
 
 #{"access_token":"J1ojw80T9QCmx7kAX90H54OeVfY9n9xs8hOLYyGvgp39vS05O7F8aKe76PBiaTt_","token_type":"bearer","expires_in":15551999,"refresh_token":"d571v6g1lbdOov2l73velNT8OLn_y90hN77S7hxksgbyF459Aw5JY1WLjTM6gt10","user_id":7871067748186666}
 
-PacessToken = 'PhiMiBi61cX25zlKNhk5MNoeQpgrZWX5sQTzqU17Vn_S45c6IFjVPM32SWuTHob5'
-NacessToken='J1ojw80T9QCmx7kAX90H54OeVfY9n9xs8hOLYyGvgp39vS05O7F8aKe76PBiaTt_'
+PacessToken = '???'
+NacessToken='???'
 
 
 def getAcess(code,clientId ,clientSecret , redirect):
